@@ -1,0 +1,19 @@
+{
+  "name": "westagilenode",
+  "version": "1.1.1",
+  "description": "node express tutorial repo",
+  "main": "assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodelearning",
+    "node",
+    "expresslearning"
+  ],
+  "author": "Mulaz Basha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
